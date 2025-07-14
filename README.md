@@ -1,10 +1,10 @@
 # Conversor de Moneda - Desafío Java
 
 <div align="center">
-  <img src="ChatGPT Image Jul 13, 2025, 06_20_38 PM.png" alt="Logotipo del proyecto" width="200"/>
+---<img width="1024" height="1024" alt="ChatGPT Image Jul 13, 2025, 06_20_38 PM" src="https://github.com/user-attachments/assets/dbdbde7c-74d5-4047-b37b-658de4aa2f81" />
 </div>
 
----
+
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20desarrollo-blue)
 ![Lenguaje](https://img.shields.io/badge/Java-17-green)
