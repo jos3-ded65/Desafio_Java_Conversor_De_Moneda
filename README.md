@@ -6,7 +6,7 @@
 
 
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20finalizado-blue)
+![Estado del Proyecto](https://img.shields.io/badge/Estado-%20Finalizado-blue)
 ![Lenguaje](https://img.shields.io/badge/Java-17-green)
 ![Plataforma](https://img.shields.io/badge/Java%20SE-Console-orange)
 
