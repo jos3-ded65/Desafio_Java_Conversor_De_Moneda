@@ -1,7 +1,7 @@
 # Conversor de Moneda - Desafío Java
 
 <div align="center">
----<img width="1024" height="1024" alt="ChatGPT Image Jul 13, 2025, 06_20_38 PM" src="https://github.com/user-attachments/assets/dbdbde7c-74d5-4047-b37b-658de4aa2f81" />
+---<img width="100" height="150" alt="ChatGPT Image Jul 13, 2025, 06_20_38 PM" src="https://github.com/user-attachments/assets/dbdbde7c-74d5-4047-b37b-658de4aa2f81" />
 </div>
 
 
