@@ -36,7 +36,7 @@ Este proyecto forma parte de un desafío del programa de formación en Java y ti
 🔧 Finalizado.
 
 - ✅ Conversión entre monedas más comunes (USD, EUR, JPY, etc.)
-- ⏳ Integración con API externa para tasas de cambio en tiempo real
+- ⏳ Integración con API externa "Exchange Rate API" para tasas de cambio en tiempo real
 - ⏳ Mejora de interfaz de usuario en consola
 
 ---
@@ -52,7 +52,6 @@ Al ejecutar el programa, el usuario podrá:
 
 **Ejemplo de uso:**
 
-```plaintext
 Bienvenido al Conversor de Moneda
 Seleccione una opción:
 1 - Dólar (USD) a Euro (EUR)
